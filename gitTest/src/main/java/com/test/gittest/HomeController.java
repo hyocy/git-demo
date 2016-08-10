@@ -35,6 +35,7 @@ public class HomeController {
 		System.out.println("Hello Git");
 		System.out.println("Test");
 		System.out.println("Test Again");
+		System.out.println("Test again and again");
 		return "home";
 	}
 	
